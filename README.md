@@ -7,9 +7,13 @@ on your selected link.
 
 Simple and easy to use!
 
-1 - Include jQuery on your application
-2 - Include activejs.js on your application
-3 - On your CSS file, create a new class ".activelinkjs-selected" and set the styles you want
+1 - Include jQuery on your application.
+
+2 - Include activejs.js on your application.
+
+3 - On your CSS file, create a new class ".activelinkjs-selected" and set the styles you want.
+
 4 - Run your application :)
+
 
 If it works, the hyperlink with your current URL wiill have the ".activelinkjs-selected" class attached to it.
