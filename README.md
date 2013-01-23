@@ -17,3 +17,5 @@ Simple and easy to use!
 
 
 If it works, the hyperlink with your current URL wiill have the ".activelinkjs-selected" class attached to it.
+
+Thanks.
